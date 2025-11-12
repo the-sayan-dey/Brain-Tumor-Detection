@@ -27,6 +27,9 @@ This project implements a Convolutional Neural Network (CNN) for automated brain
 - Multi-class tumor classification (4 classes)
 - **5,700 training images** and **1,311 test images**
 
+- ![Home Screen](project-images/home.png)
+![Classification Report](project-images/Screenshot (1562).png)
+
 ## 🏗️ Architecture
 
 ### Model Components
