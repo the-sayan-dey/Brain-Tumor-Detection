@@ -28,7 +28,8 @@ This project implements a Convolutional Neural Network (CNN) for automated brain
 - **5,700 training images** and **1,311 test images**
 
 - ![Home Screen](project-images/home.png)
-![Classification Report](project-images/Screenshot%20(1562).png
+
+![Classification Report](project-images/Screenshot%20%281562%29.png)
 
 ## 🏗️ Architecture
 
